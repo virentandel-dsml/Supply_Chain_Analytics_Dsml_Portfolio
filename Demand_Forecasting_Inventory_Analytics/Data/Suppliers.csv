@@ -1,0 +1,11 @@
+Supplier_ID,Supplier_Name,Material_Category,Standard_Lead_Time_Days,Supplier_Reliability
+SUP-01,Western Alloy Components,Metal Components,12,0.93
+SUP-02,Deccan Industrial Metals,Steel & Forgings,18,0.89
+SUP-03,Precision Forge Industries,Forged Components,21,0.91
+SUP-04,Sunrise Engineering Materials,Machined Components,15,0.95
+SUP-05,Bharat Motion Components,Power Transmission,20,0.87
+SUP-06,Apex Pneumatic Materials,Pneumatic Components,13,0.94
+SUP-07,Western Polymer Solutions,Sealing Materials,10,0.96
+SUP-08,Precision Automation Parts,Automation Components,17,0.9
+SUP-09,Meridian Process Components,Process Components,19,0.88
+SUP-10,National Industrial Castings,Cast Components,23,0.86

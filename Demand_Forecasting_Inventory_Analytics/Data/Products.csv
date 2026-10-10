@@ -1,0 +1,36 @@
+Product_ID,Product_Name,Product_Category,Product_Subcategory,Unit_Cost,Unit_Price,Standard_Lead_Time_Days,MOQ,Criticality
+PRD-1001,Hydraulic Pump Assembly,Hydraulics,Pump Assembly,4850,7200,14,40,High
+PRD-1002,Industrial Gear Housing,Power Transmission,Gear Housing,3650,5600,18,30,High
+PRD-1003,Precision Valve Body,Hydraulics,Valve Body,2100,3400,12,60,High
+PRD-1004,Conveyor Drive Shaft,Material Handling,Drive Shaft,2950,4600,21,20,High
+PRD-1005,Heavy-Duty Coupling,Power Transmission,Coupling,1750,2850,16,35,Medium
+PRD-1006,Pneumatic Control Module,Pneumatics,Control Module,2250,3600,13,45,High
+PRD-1007,Stainless Process Flange,Process Components,Flange,980,1650,10,100,Medium
+PRD-1008,Servo Mounting Bracket,Automation,Bracket,720,1250,15,120,Medium
+PRD-1009,Linear Guide Assembly,Automation,Linear Guide,1850,2950,19,35,High
+PRD-1010,Industrial Bearing Carrier,Power Transmission,Bearing Carrier,1450,2350,17,50,Medium
+PRD-1011,Rotary Actuator Housing,Automation,Actuator Housing,2650,4200,20,25,High
+PRD-1012,Hydraulic Manifold Block,Hydraulics,Manifold,3150,4950,22,25,High
+PRD-1013,Pump Mount Plate,Hydraulics,Mount Plate,650,1050,11,150,Medium
+PRD-1014,Timing Pulley Hub,Power Transmission,Pulley Hub,880,1450,14,100,Medium
+PRD-1015,Machine Guard Panel,Industrial Equipment,Guard Panel,1150,1850,9,60,Low
+PRD-1016,Drive Coupling Insert,Power Transmission,Coupling Insert,420,720,13,180,Medium
+PRD-1017,High-Pressure Piston Rod,Hydraulics,Piston Rod,1950,3150,24,30,High
+PRD-1018,Industrial Filter Housing,Process Components,Filter Housing,1350,2200,16,45,Medium
+PRD-1019,Actuator Linkage Kit,Automation,Linkage Kit,560,920,12,100,Medium
+PRD-1020,Worm Gear Set,Power Transmission,Worm Gear,2350,3750,23,25,High
+PRD-1021,Cooling Manifold Assembly,Process Components,Cooling Manifold,2850,4500,20,30,High
+PRD-1022,Industrial Sensor Mount,Automation,Sensor Mount,390,680,10,200,Low
+PRD-1023,Heavy Equipment Bush,Material Handling,Bush,510,850,15,140,Medium
+PRD-1024,Hydraulic Cylinder Head,Hydraulics,Cylinder Head,2400,3850,18,30,High
+PRD-1025,Precision Shaft Collar,Power Transmission,Shaft Collar,330,560,11,250,Low
+PRD-1026,Pneumatic Manifold Plate,Pneumatics,Manifold Plate,760,1250,14,90,Medium
+PRD-1027,Conveyor Roller Assembly,Material Handling,Roller Assembly,1250,2050,17,55,Medium
+PRD-1028,Hydraulic Seal Carrier,Hydraulics,Seal Carrier,460,780,12,160,Medium
+PRD-1029,Motor Adapter Plate,Industrial Equipment,Adapter Plate,690,1120,13,120,Low
+PRD-1030,Precision Gear Blank,Power Transmission,Gear Blank,1020,1680,20,80,Medium
+PRD-1031,Servo Drive Enclosure,Automation,Drive Enclosure,1550,2500,18,50,High
+PRD-1032,Process Pump Impeller,Process Components,Impeller,1750,2850,21,40,High
+PRD-1033,Industrial Mounting Foot,Industrial Equipment,Mounting Foot,280,480,9,300,Low
+PRD-1034,Hydraulic Return Manifold,Hydraulics,Return Manifold,2200,3550,19,35,High
+PRD-1035,Variable Speed Coupling,Power Transmission,VSD Coupling,3100,4950,26,25,High
