@@ -1,0 +1,9 @@
+Work_Center_ID,Work_Center_Name
+WC-CNC-01,CNC Machining Cell
+WC-ASM-02,Hydraulic Assembly Line
+WC-FIN-03,Precision Finishing Line
+WC-MCH-04,Heavy Machining Centre
+WC-TST-05,Valve Testing Station
+WC-QA-06,Component Inspection Cell
+WC-ASM-07,Final Assembly Line
+WC-SRF-08,Surface Treatment Cell
