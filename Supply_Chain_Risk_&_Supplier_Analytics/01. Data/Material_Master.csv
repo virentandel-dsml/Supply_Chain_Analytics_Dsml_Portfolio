@@ -1,0 +1,41 @@
+Material_ID,Material_Name,Material_Composition,Material_Category,Base_UOM,ABC_Class,Criticality
+MAT-1001,Hydraulic Pump Housing,Cast Iron,Hydraulic Systems,EA,C,Standard
+MAT-1002,Hardened Pump Drive Shaft,Alloy Steel,Hydraulic Systems,EA,C,High
+MAT-1003,Nitrile Shaft Seal 42 mm,Nitrile Rubber,Seals & Gaskets,EA,C,Standard
+MAT-1004,Precision Ball Bearing 6206,Bearing Steel,Bearings,EA,B,Standard
+MAT-1005,Stainless Steel Flow Control Valve,Stainless Steel,Valves,EA,A,Standard
+MAT-1006,Pneumatic Cylinder Barrel 50 mm,Aluminium Alloy,Pneumatics,EA,C,High
+MAT-1007,Copper Motor Winding Wire 2.5 mm,Copper,Electrical Components,KG,B,High
+MAT-1008,Industrial Contactor 32 A,Electrical Grade,Electrical Components,EA,C,High
+MAT-1009,Polyurethane Conveyor Roller,Polyurethane,Material Handling,EA,C,Standard
+MAT-1010,Helical Gear Set 3:1 Ratio,Alloy Steel,Gears & Drives,SET,C,High
+MAT-1011,M12 Stainless Steel Hex Bolt,Stainless Steel,Fasteners,EA,C,High
+MAT-1012,High-Pressure Hydraulic Hose 1/2 in,Synthetic Rubber,Hydraulic Systems,M,C,Standard
+MAT-1013,EPDM Flange Gasket DN50,EPDM Rubber,Seals & Gaskets,EA,A,Standard
+MAT-1014,Aluminium Extrusion Rail 40 mm,Aluminium Alloy,Linear Motion,M,C,Standard
+MAT-1015,Proximity Sensor M18 PNP,Electronic Components,Sensors,EA,A,Critical
+MAT-1016,Industrial Pressure Transmitter 0-10 bar,Electronic Components,Sensors,EA,B,Critical
+MAT-1017,Cast Steel Pump Impeller 180 mm,Cast Steel,Hydraulic Systems,EA,A,Standard
+MAT-1018,Flexible Jaw Coupling 28 mm,Alloy Steel,Power Transmission,EA,B,Critical
+MAT-1019,Polycarbonate Electrical Enclosure,Polycarbonate,Electrical Components,EA,A,Standard
+MAT-1020,Ceramic Insulation Spacer,Technical Ceramic,Insulation,EA,C,Standard
+MAT-1021,Stainless Steel Pipe Elbow DN25,Stainless Steel,Pipe Fittings,EA,C,Standard
+MAT-1022,Brass Compression Ferrule 8 mm,Brass,Pipe Fittings,EA,A,High
+MAT-1023,V-Belt SPA 1600,Reinforced Rubber,Power Transmission,EA,B,Standard
+MAT-1024,Precision Linear Guide Block 20 mm,Bearing Steel,Linear Motion,EA,C,Standard
+MAT-1025,Motor Cooling Fan 250 mm,Engineering Polymer,Motor Components,EA,C,Standard
+MAT-1026,Thermal Interface Pad 2 mm,Silicone Composite,Thermal Materials,EA,C,High
+MAT-1027,Powder-Coated Mounting Bracket,Mild Steel,Fabricated Components,EA,B,Standard
+MAT-1028,Forged Clevis Pin 16 mm,Alloy Steel,Forged Components,EA,A,Critical
+MAT-1029,Industrial Air Filter Element 5 micron,Filter Media,Filtration,EA,C,High
+MAT-1030,Food-Grade Silicone O-Ring 30 mm,Silicone Rubber,Seals & Gaskets,EA,B,Standard
+MAT-1031,Tinned Copper Cable Lug 16 mm2,Copper,Electrical Components,EA,C,High
+MAT-1032,Machine Guard Polycarbonate Panel,Polycarbonate,Safety Components,EA,C,Standard
+MAT-1033,Stainless Steel Spring Plunger,Stainless Steel,Fasteners,EA,C,High
+MAT-1034,Hardened Guide Rail 800 mm,Alloy Steel,Linear Motion,EA,A,Standard
+MAT-1035,Industrial Gearbox Breather Plug,Zinc Alloy,Gears & Drives,EA,B,Standard
+MAT-1036,Hydraulic Manifold Block 6-Port,Aluminium Alloy,Hydraulic Systems,EA,C,Critical
+MAT-1037,PTFE Piston Ring 65 mm,PTFE,Seals & Gaskets,EA,C,Standard
+MAT-1038,Mild Steel Base Plate 12 mm,Mild Steel,Fabricated Components,KG,C,Standard
+MAT-1039,Three-Phase Motor Terminal Block,Electrical Grade,Motor Components,EA,B,Critical
+MAT-1040,Brass Solenoid Valve Core,Brass,Valves,EA,B,High

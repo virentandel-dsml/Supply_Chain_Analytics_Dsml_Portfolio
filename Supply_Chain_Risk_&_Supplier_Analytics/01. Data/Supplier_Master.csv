@@ -1,0 +1,31 @@
+Supplier_ID,Supplier_Name,Supplier_Location,Supplier_Category,Standard_Lead_Time_Days,Supplier_Status,Payment_Terms,Supplier_Since_Year,Historical_On_Time_Target,Expected_Defect_Rate
+SUP-0001,Meridian Forge & Alloys,"Pune, Maharashtra",Forged Components,24,Approved,Net 30,2023,0.776,0.022
+SUP-0002,Kestrel Motion Components,"Vadodara, Gujarat",Precision Components,12,Approved,Net 60,2017,0.755,0.027
+SUP-0003,Bluehaven Polymer Works,"Vapi, Gujarat",Polymers,17,Approved,Net 30,2014,0.881,0.018
+SUP-0004,Northstar Fluid Systems,"Coimbatore, Tamil Nadu",Fluid Components,26,Under Review,Net 60,2015,0.828,0.008
+SUP-0005,Aldercrest Industrial Metals,"Belagavi, Karnataka",Metals,12,Approved,Net 45,2015,0.742,0.009
+SUP-0006,Rivermark Electrical Assemblies,"Nashik, Maharashtra",Electrical Components,16,Approved,Net 45,2018,0.875,0.023
+SUP-0007,Crestline Seal Technologies,"Rajkot, Gujarat",Seals & Gaskets,26,Approved,Net 30,2016,0.913,0.011
+SUP-0008,Ironvale Transmission Works,"Faridabad, Haryana",Power Transmission,22,Under Review,Net 30,2017,0.884,0.006
+SUP-0009,Westbridge Thermal Materials,"Aurangabad, Maharashtra",Thermal Materials,26,Approved,Net 30,2016,0.842,0.015
+SUP-0010,Silverfern Cable Systems,"Bengaluru, Karnataka",Bearings,24,Approved,Net 60,2020,0.953,0.022
+SUP-0011,Granite Peak Castings,"Indore, Madhya Pradesh",Castings,16,Approved,Net 30,2016,0.751,0.022
+SUP-0012,Amberline Industrial Packaging,"Mumbai, Maharashtra",Packaging,9,Approved,Net 60,2022,0.964,0.023
+SUP-0013,Redwood Precision Bearings,"Chennai, Tamil Nadu",Pneumatics,10,Approved,Net 30,2021,0.836,0.027
+SUP-0014,Stonehaven Pneumatic Parts,"Ahmedabad, Gujarat",Surface Treatment,18,Approved,Net 30,2013,0.896,0.018
+SUP-0015,Clearbrook Surface Finishing,"Noida, Uttar Pradesh",Ceramics,27,Approved,Net 30,2013,0.873,0.033
+SUP-0016,Dunewell Industrial Ceramics,"Pune, Maharashtra",Machined Components,28,Under Review,Net 30,2012,0.832,0.013
+SUP-0017,Oakridge Machined Assemblies,"Vadodara, Gujarat",Hydraulics,24,Approved,Net 30,2021,0.895,0.019
+SUP-0018,Copperfield Conductor Works,"Vapi, Gujarat",Fasteners,10,Approved,Net 30,2017,0.808,0.009
+SUP-0019,Brightwater Hydraulic Parts,"Coimbatore, Tamil Nadu",Rubber Components,18,Under Review,Net 30,2012,0.765,0.008
+SUP-0020,Hillcrest Industrial Fasteners,"Belagavi, Karnataka",Automation Components,24,Approved,Net 30,2012,0.759,0.021
+SUP-0021,Ashbourne Rubber Engineering,"Nashik, Maharashtra",Composite Materials,9,Approved,Net 30,2013,0.878,0.022
+SUP-0022,Greyhaven Motor Components,"Rajkot, Gujarat",Pipe Fittings,20,Approved,Net 60,2017,0.845,0.007
+SUP-0023,Sunridge Alloy Products,"Faridabad, Haryana",Gears & Drives,22,Approved,Net 45,2016,0.892,0.026
+SUP-0024,Elmstone Industrial Controls,"Aurangabad, Maharashtra",Springs,27,Approved,Net 45,2022,0.894,0.008
+SUP-0025,Harborlight Composite Materials,"Bengaluru, Karnataka",Sensors,18,Under Review,Net 45,2013,0.842,0.006
+SUP-0026,Windmere Process Fittings,"Indore, Madhya Pradesh",Lubricants,26,Approved,Net 30,2014,0.871,0.03
+SUP-0027,Brookfield Gear Technologies,"Mumbai, Maharashtra",Forged Components,26,Approved,Net 45,2022,0.859,0.018
+SUP-0028,Maplecrest Industrial Springs,"Chennai, Tamil Nadu",Precision Components,19,Approved,Net 45,2022,0.855,0.029
+SUP-0029,Longmeadow Sensor Assemblies,"Ahmedabad, Gujarat",Polymers,27,Approved,Net 60,2015,0.956,0.024
+SUP-0030,Fairmont Industrial Lubricants,"Noida, Uttar Pradesh",Fluid Components,26,Approved,Net 45,2019,0.793,0.023
